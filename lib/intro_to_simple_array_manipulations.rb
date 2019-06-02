@@ -7,3 +7,6 @@ end
 def using_pop(array)
   return array.pop
 end
+def using_pop(array)
+  return array.pop(2)
+end
